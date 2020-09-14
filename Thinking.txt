@@ -1,0 +1,27 @@
+https://www.behance.net/gallery/87726467/Slack-Redesign
+
+1. Wireframing - draw a rough sketch of your idea i.e what you will build
+2. Functionality
+    * Sign in
+    * Sign up
+    * Create a channel
+    * Send a message in channel
+    * Join a channel
+    * Search a channel
+3. Data
+    * Users
+    * Channels
+    * Messages
+4. UI Components
+    * Sidebar
+      * List of channel
+      * List of Direct Messages 
+    * Main Container
+      * Header
+      * Messages
+      * Create message
+    * Sign IN 
+    * Sign UP
+
+
+
