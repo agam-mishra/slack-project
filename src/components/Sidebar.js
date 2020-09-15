@@ -7,6 +7,7 @@ export default class Sidebar extends Component {
 				<div className="user-profile">
 					<div>
 						<img />
+						agam mishra
 					</div>
 					<div>Ronald</div>
 				</div>
