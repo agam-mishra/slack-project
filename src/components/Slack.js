@@ -3,9 +3,10 @@ import { Sidebar, MainContainer } from './';
 
 class Slack extends Component {
 	render() {
+		const data = [];
 		return (
 			<div id="slack">
-				<Sidebar />
+				<Sidebar data={data} />
 				<MainContainer />
 			</div>
 		);
